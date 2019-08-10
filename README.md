@@ -19,8 +19,6 @@ Firstly, k means are randomly chosen. K-means algorithm then alternates between 
 
 Repeat the step until the means do not change in the next iteration. This means the algorithm has converged.
 
-The reduced colour image is then as accurate a representation of the original colour as possible.
-
 
 
 
