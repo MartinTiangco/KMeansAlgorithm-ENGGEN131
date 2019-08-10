@@ -7,6 +7,8 @@ This uses the K-Means algorithm to convert an image of many colours into an imag
 |---| --- | --- |
 |![Original Picture][picOriginal]|![16-colour image][pic16Colour]|![8-colour image][pic8Colour]
 
+
+
 > #### How it works:
 This project is all about the k-means clustering algorithm. The algorithm is used to group the pixel colours used in the original image into clusters.
 
