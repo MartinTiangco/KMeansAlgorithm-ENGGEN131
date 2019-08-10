@@ -3,7 +3,7 @@ This is a project in The University of Auckland's Bachelor of Engineering (Honou
 
 This uses the K-Means algorithm to convert an image of many colours into an image with k colours. Here is an example using one of my own pictures (named 'The Edge of the World') below!
 
-|Original Image | 16-colour image | 8-colour image |
+|Original Image | 16-colour Image | 8-colour Image |
 |---| --- | --- |
 |![Original Picture][picOriginal]|![16-colour image][pic16Colour]|![8-colour image][pic8Colour]
 
