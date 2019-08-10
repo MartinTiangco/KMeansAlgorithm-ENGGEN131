@@ -1,4 +1,4 @@
-# KMeansAlgorithm-ENGGEN131
+# K-Means Algorithm - ENGGEN 131 Project
 This is a project in The University of Auckland's Bachelor of Engineering (Honours) degree in course named 'ENGGEN 131: Introduction to Engineering Computation and Software Development'. 
 
 This uses the K-Means algorithm to convert an image of many colours into an image with k colours. Here is an example using one of my own pictures (named 'The Edge of the World') below!
@@ -7,7 +7,7 @@ This uses the K-Means algorithm to convert an image of many colours into an imag
 |---| --- | --- |
 |![Original Picture][picOriginal]|![16-colour image][pic16Colour]|![8-colour image][pic8Colour]
 
-##### How it works
+> #### How it works:
 This project is all about the k-means clustering algorithm. The algorithm is used to group the pixel colours used in the original image into clusters.
 
 This technique allows for data to be sectioned into k clusters (where a small number of clusters is normally used). 
